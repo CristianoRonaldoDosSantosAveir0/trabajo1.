@@ -1,0 +1,14 @@
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\bin\Debug\net6.0\trabajo1__.exe
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\bin\Debug\net6.0\trabajo1__.deps.json
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\bin\Debug\net6.0\trabajo1__.runtimeconfig.json
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\bin\Debug\net6.0\trabajo1__.dll
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\bin\Debug\net6.0\trabajo1__.pdb
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.AssemblyInfoInputs.cache
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.AssemblyInfo.cs
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.csproj.CoreCompileInputs.cache
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.dll
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\refint\trabajo1__.dll
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.pdb
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\trabajo1__.genruntimeconfig.cache
+C:\Users\delga\OneDrive\Desktop\tra\trabajo1__\trabajo1__\obj\Debug\net6.0\ref\trabajo1__.dll
